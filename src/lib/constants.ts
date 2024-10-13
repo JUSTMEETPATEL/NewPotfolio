@@ -92,6 +92,7 @@ export const slugs = [
   "github",
   "visualstudiocode",
   "androidstudio",
-  "figma",
   "bun",
+  "npm",
+  "python"
 ];
